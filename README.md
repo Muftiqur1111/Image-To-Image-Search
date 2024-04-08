@@ -2,11 +2,11 @@
 
 ## Input Image
 The input image is an RGB image of a product
-![Input Image](/home/muftiqur/Image-to-Image-Search/Image-To-Image-Search/input.jpg)
+![Input Image](input.jpg)
 
 ## Output
 The output image displays the top 10 most similar product images with respect to the input image.
-![Output Image](/home/muftiqur/Image-to-Image-Search/Image-To-Image-Search/output.png)
+![Output Image](output.png)
 
 
 ## Installation
