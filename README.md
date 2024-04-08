@@ -11,11 +11,12 @@ Replace ENV_NAME with the name you want to give to your virtual environment.
 
 Next, activate the virtual environment by running:
 
+```bash
 source ENV_NAME/bin/activate
 
 
 To install the required dependencies, run the following commands:
-
+```bash
 pip3 -qqq install transformers torch datasets
 pip3 -qqq install gdcm
 pip3 -qqq install pydicom
