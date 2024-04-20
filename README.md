@@ -12,11 +12,11 @@ The output image displays the top 10 most similar product images with respect to
 In the pre-finetuning stage, the CLIP model exhibits inconsistencies in searching for similar images. For example, when searching for the top 10 similar images from an image of the 'Pneumatic Tool' class, it identifies wrenches and pipe cutters alongside pneumatic tools.
 ![Query Image](query_before_finetuning.jpg) 
 
-!(model_output_before_finetuning.PNG)
+![model_output](model_output_before_finetuning.PNG)
 
 ## Inference After Fine-tuning
 The model performs better after fine-tuning.
-!(model_output_after_finetuning.PNG)
+![model_output](model_output_after_finetuning.PNG)
 
 ## Installation
 
